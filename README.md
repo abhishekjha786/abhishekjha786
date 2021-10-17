@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha ☺</h1>
-<h3 align="center">Flutter Developer || Java Developer || Learner || Artist</h3>
+<h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Artist💞</h3>
+
+- 🌱 I’m currently learning **Flutter | Data Structures & Algorithms with Java**
+
+- 👯 I’m looking to collaborate on **Flutter Projects**
+
+- 📝 I regularly write articles on [Leetcode](Leetcode)
+
+- 📫 How to reach me **abhishekjhagwl@gmail.com**
+
+- ⚡ Fun fact **I think, I am funny & Joking 😋**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
