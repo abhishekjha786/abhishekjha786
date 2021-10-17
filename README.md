@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha ☺</h1>
 <h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekjha786&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha786" /> </p>
 
 - 🌱 I’m currently learning **Flutter | Data Structures & Algorithms with Java**
 
