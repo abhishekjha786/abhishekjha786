@@ -2,7 +2,7 @@
 <h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
 
 
-- 🔭 I’m Pre final CS Undergrad'23 from ITM Gwalior.
+- 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior**.
 
 - 🌱 I’m currently a **Full Stack Flutter Intern at Xupoli Technologies** working on Re-Design App and Add new functionality.
 
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abhishekjhagwl](https://medium.com/@abhishekjhagwl)
 
-- 💬 Ask me about Data Structures & Algorithms, Backend Projects.
+- 💬 Ask me about **Data Structures & Algorithms, Backend Projects**.
 
 - 😄 Pronouns: He/Him
 
