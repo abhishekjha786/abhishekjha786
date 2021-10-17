@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter | Data Structures & Algorithms with Java**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter Projects** as an Open Source Contributor
 
 - 📝 I regularly write articles on [Leetcode](Leetcode)
 
