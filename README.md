@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abhishekjhagwl](https://medium.com/@abhishekjhagwl)
 
-- 💬 Ask me about **Data Structures & Algorithms, Backend Projects**.
+- 💬 Ask me about **Data Structures & Algorithms, Flutter & Dart, Backend Projects**.
 
 - 😄 Pronouns: He/Him
 
