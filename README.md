@@ -18,7 +18,7 @@
 
 - 😎  About Me: I enjoy eating sweets 🍨, dark chocolate 🍭, fast food 🍕, mangoes 🍺, and almost anything that has cheese in it.
 
-- ⚡ Fun fact **I think, I am funny & Joking 😋**
+- ⚡ Fun fact: **I think, I am funny & Joking 😋**
 
 ![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishekjha786&theme=react-dark)
 
