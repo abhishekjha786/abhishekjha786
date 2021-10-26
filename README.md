@@ -5,7 +5,7 @@
 
 - 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior**.
 
-- 🌱 I’m currently a **Full Stack Flutter Developer Intern at Xupoli Technologies** working on Re-Design App and Add new functionality.
+- 🌱 I’m currently a **Full Stack Flutter Developer Intern at Xupoli Technologies Inc** working on Re-Design App and Add new functionality.
 
 - 👯 I’m looking to collaborate on **Flutter Projects **
 
