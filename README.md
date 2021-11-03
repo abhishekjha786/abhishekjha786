@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently a **Flutter Developer Intern at Xupoli Technologies Inc** & **Java Backened Development ar 9i Digital Services**.
 
-- 👯 I’m looking to collaborate on **Flutter Projects **
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@abhishekjhagwl](https://medium.com/@abhishekjhagwl)
 
