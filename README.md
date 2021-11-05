@@ -3,7 +3,7 @@
 <h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
 
 
-- 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior  **.
+- 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior**.
 
 - 🌱 I’m currently a **Flutter Developer Intern at Xupoli Technologies Inc** & **Java Backened Development ar 9i Digital Services**.
 
