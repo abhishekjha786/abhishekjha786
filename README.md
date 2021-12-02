@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhishekjhagwl@gmail.com**
 
-- 😎  About Me: I enjoy eating sweet's 🍨, dark chocolates 🍭, fast-food 🍕,mangoes            🍺, and almost anything that has cheese in it.
+- 😎  About Me: I enjoy eating sweet's 🍨, dark chocolates 🍭, fast-food 🍕, mangoes🍺, and almost anything that has cheese in it.
 
 - ⚡ Fun fact: **I think, I am funny & Joking and Love to code😋**
 
