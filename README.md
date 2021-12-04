@@ -5,7 +5,7 @@
 
 - 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior**.
 
-- 🌱 I’m currently **Flutter Developer Intern at Xupoli Technologies Inc** & **Java Backened Development at 9i Digital Services**.
+- 🌱 I’m currently **Flutter Developer** & **Java Backened Development**.
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
