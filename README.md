@@ -5,7 +5,7 @@
 
 - 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior**.
 
-- 🌱 I’m currently **Flutter Developer** & **Java Backened Development**.
+- 🌱 I’m currently **Flutter Developer** & **Java Backened Developer**.
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
