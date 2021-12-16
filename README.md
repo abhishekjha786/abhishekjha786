@@ -1,6 +1,6 @@
 <h1 align="center">Hey<img src="https://c.tenor.com/6_-osAtLuHUAAAAj/wave-cute.gif" width="50" height="50" />, I'm Abhishek Jha!✌</h1>
 
-<h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
+<h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Lea   rner✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
 
 
 - 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior**.
