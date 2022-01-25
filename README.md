@@ -1,6 +1,6 @@
 <h1 align="center">Hey<img src="https://c.tenor.com/6_-osAtLuHUAAAAj/wave-cute.gif" width="50" height="50" />, I'm Abhishek Jha!✌</h1>
 
-<h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Ar tist💞 | ✌Calligraphist🤩</h3>
+<h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕Learner✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
 
 
 - 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior**.
@@ -20,8 +20,6 @@
 - 😎  About Me: I enjoy eating sweet's 🍨, dark chocolates 🍭, fast-food 🍕, mangoes🍺, and almost anything that has cheese in it.
 
 - ⚡ Fun fact: **I think, I am funny & Joking and Love to code😋**
-
-![Harguns's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhishekjha786&theme=react-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
