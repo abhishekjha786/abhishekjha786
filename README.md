@@ -3,9 +3,9 @@
 <h3 align="center">😍Flutter Developer🥤 | 🥰Java Developer☕ | 📕 Learner ✍ | 💞Artist💞 | ✌Calligraphist🤩</h3>
 
 
-- 🔭 I’m **Pre final CS Undergrad'23 from ITM Gwalior**.
+- 🔭 I’m **final year CS Undergrad'23 from ITM Gwalior**.
 
-- 🌱 I’m currently **Flutter Developer** & **Java Backened Developer**.
+- 🌱 I’m currently **Flutter Developer**.
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
