@@ -7,7 +7,7 @@
 
 - 🌱 I’m **Flutter Developer**.
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m very interested to collaborate on **Flutter Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@abhishekjhagwl](https://medium.com/@abhishekjhagwl)
 
